@@ -44,7 +44,7 @@
 
 ## GitHub Stats
   <img align="left" alt="Subuthai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subuthai&theme=dark" />
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   <img align="left" alt="Subuthai's Visiters Count" src="https://komarev.com/ghpvc/?username=Subuthai">
 
 <br />
