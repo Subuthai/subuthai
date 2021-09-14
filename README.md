@@ -1,14 +1,14 @@
-### Hi there, I'm Ata Kemal, aka [Subuthai][website] 👋
+### Hi there! I'm Ata Kemal, aka [Subuthai][website] 👋
 
 [![Website](https://img.shields.io/website?label=subuthai.xyz&style=for-the-badge&url=https%3A%2F%2Fsubuthai.xyz)](https://subuthai.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/subuthai_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSubuthai&screen_name=subuthai_)
 
 ## I'm a student & developer!
 
-- 👯 I'm looking to collaborate with other developers.
-- 🥅 2021 Goals:
-- ⚡ I want to share a project I made, as open source.
-- ⚡ I'm currently trying to become a full-stack developer.
+- I'm looking to collaborate with other developers.
+- **2021 Goals:**
+- I want to share a project I made, as open source.
+- I'm currently trying to become a full-stack developer.
 
 ### Connect with me:
 
@@ -33,14 +33,16 @@
 
 <br />
 
-### ⚡ GitHub Stats
-  <img align="left" alt="Subuthai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subuthai&theme=dark" />
+## Discord 
+  [<img align="left" alt="Lemniscate Development Discord Server" src="https://discordapp.com/api/guilds/638385129030418452/widget.png?style=banner2" alt="Lemniscate Dev"/>][discord]
+  <img align="left" alt="is Subuthai online?" src="https://dcbadge.vercel.app/api/shield/275723948803489792?style=flat&theme=clean" />
 
 <br />
+<br />
+<br />
 
-## Discord 
-  [<img src="https://discordapp.com/api/guilds/638385129030418452/widget.png?style=banner2" alt="Lemniscate Dev"/>][discord]
-  <img src="https://dcbadge.vercel.app/api/shield/275723948803489792?style=flat&theme=clean" />
+## GitHub Stats
+  <img align="left" alt="Subuthai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subuthai&theme=dark" />
 
 <br />
 
