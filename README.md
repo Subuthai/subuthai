@@ -42,10 +42,12 @@
 <br />
 <br />
 
-## GitHub Stats
+## GitHub Stats & Top Languages
   <img align="left" alt="Subuthai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subuthai&theme=dark" />
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
   <img align="left" alt="Subuthai's Visiters Count" src="https://komarev.com/ghpvc/?username=Subuthai">
+  <br />
+  <img aligh="left" alt="Subuthai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subuthai&theme=dark">
 
 <br />
 
