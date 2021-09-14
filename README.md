@@ -17,7 +17,7 @@
 [<img align="left" alt="subuthai_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="subuthai_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/>
+<br />
 
 ### Languages and Tools:
 
@@ -31,17 +31,18 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 
-<br/>
+<br />
 
 ### ⚡ GitHub Stats
   <img align="left" alt="Subuthai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subuthai&theme=dark" />
 
-<br/>
+<br />
 
 ## Discord 
   [<img src="https://discordapp.com/api/guilds/638385129030418452/widget.png?style=banner2" alt="Lemniscate Dev"/>][discord]
   <img src="https://dcbadge.vercel.app/api/shield/275723948803489792?style=flat&theme=clean" />
-  
+
+<br />
 
 [website]: https://subuthai.xyz
 [twitter]: https://twitter.com/subuthai_
