@@ -7,7 +7,7 @@
 
 - I'm looking to collaborate with other developers.
 - **2021 Goals:**
-- I want to share a project I made, as open source.
+- <s>I want to share a project I made, as open source.</s> ✔️
 - I'm currently trying to become a full-stack developer.
 
 ### Connect with me:
