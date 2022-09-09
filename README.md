@@ -36,7 +36,7 @@
 <br />
 
 ## Discord 
-  [<img align="left" alt="Lemniscate Development Discord Server" src="https://discordapp.com/api/guilds/910600760776077372/widget.png?style=banner2" alt="Lemniscate Dev"/>][discord]
+  [<img align="left" alt="Lemniscate Development Discord Server" src="https://discordapp.com/api/guilds/638385129030418452/widget.png?style=banner2" alt="Lemniscate Dev"/>][discord]
   <br /><br /><br /><br />
   <img align="left" alt="is Subuthai online?" src="https://dcbadge.vercel.app/api/shield/275723948803489792?style=flat&theme=clean" />
 
@@ -57,4 +57,4 @@
 [twitter]: https://twitter.com/subuthai_
 [youtube]: https://youtube.com/Subuthai
 [instagram]: https://instagram.com/subuthai_
-[discord]: https://discord.gg/white
+[discord]: https://discord.gg/adXEBUK94B
