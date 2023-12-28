@@ -44,6 +44,7 @@
 
 <img align="left" width="75px" src="https://img.shields.io/badge/Visual Studio Code-007acc.svg?logo=visual-studio-code&style=flat-square" />
 <img align="left" width="60px" src="https://img.shields.io/badge/WebStorm-000.svg?logo=webstorm&style=flat-square" />
+<img align="left" width="60px" src="https://img.shields.io/badge/PhpStorm-000.svg?logo=phpstorm&style=flat-square" />
 
 <br />
 
@@ -59,11 +60,10 @@
 ## GitHub Stats & Top Languages
   <img align="left" alt="Subuthai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=subuthai&theme=dark" />
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <img aligh="left" alt="Subuthai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subuthai&theme=dark">
+  <br />
   <img align="left" alt="Subuthai's Visiters Count" src="https://komarev.com/ghpvc/?username=Subuthai">
   <br />
-  <img aligh="left" alt="Subuthai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subuthai&theme=dark">
-
-<br />
 
 [website]: https://subuthai.xyz
 [twitter]: https://twitter.com/subuthai_
