@@ -27,17 +27,23 @@
 
 <br />
 
-### Languages and Tools:
+### Languages & Frameworks:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/material-outlined/24/000000/github.png"/>
+<img align="left" width="55px" src="https://img.shields.io/badge/Next.js-000.svg?logo=next.js&style=flat" />
+<img align="left" width="55px" src="https://img.shields.io/badge/Node.js-323232.svg?logo=node.js&style=flat" />
+<img align="left" width="55px" src="https://img.shields.io/badge/JavaScript-000.svg?logo=javascript&style=flat" />
+<img align="left" width="55px" src="https://img.shields.io/badge/TypeScript-f7f7f7.svg?logo=typescript&style=flat" />
+<img align="left" width="50px" src="https://img.shields.io/badge/HTML5-ececec.svg?logo=html5&style=flat" />
+<img align="left" width="50px" src="https://img.shields.io/badge/CSS3-2572b6.svg?logo=css3&style=flat" />
+<img align="left" width="55px" src="https://img.shields.io/badge/MongoDB-fff.svg?logo=mongodb&style=flat" /> 
+<img align="left" width="55px" src="https://img.shields.io/badge/MySQL-f29111.svg?logo=mysql&style=flat" />
+
+<br />
+
+### Tools:
+
+<img align="left" width="75px" src="https://img.shields.io/badge/Visual Studio Code-007acc.svg?logo=visual-studio-code&style=flat-square" />
+<img align="left" width="60px" src="https://img.shields.io/badge/WebStorm-000.svg?logo=webstorm&style=flat-square" />
 
 <br />
 
