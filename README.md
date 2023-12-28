@@ -3,14 +3,15 @@
 [![Website](https://img.shields.io/website?label=subuthai.xyz&style=for-the-badge&url=https%3A%2F%2Fsubuthai.xyz)](https://subuthai.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/subuthai_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSubuthai&screen_name=subuthai_)
 
-## I'm a student & developer!
+## I'm a student & part-time developer!
 
-- I'm looking to collaborate with other developers.
 - **2021 Goals:**
 - <s>I want to share a project I made, as open source.</s> ✔️
 - Become senior full-stack web developer. ❌
+  
 - **2022 Goals:**
 - Become senior full-stack web developer. ❌
+  
 - **2023 Goals:**
 - <s>Share at least one project.</s> ✔️
 - <s>Become junior full-stack web developer.</s> ✔️
