@@ -8,11 +8,14 @@
 - I'm looking to collaborate with other developers.
 - **2021 Goals:**
 - <s>I want to share a project I made, as open source.</s> ✔️
-- I'm currently trying to become a full-stack developer. ❌
+- Become senior full-stack web developer. ❌
 - **2022 Goals:**
-- I'm currently trying to become a full-stack developer. ❌
+- Become senior full-stack web developer. ❌
 - **2023 Goals:**
-- I'm currently trying to become a full-stack developer. ❌
+- <s>Share at least one project.</s> ✔️
+- <s>Become junior full-stack web developer.</s> ✔️
+- <s>Become intermediate full-stack web developer.</s> ✔️
+- Become senior full-stack web developer. ❌
 
 ### Contact me:
 
