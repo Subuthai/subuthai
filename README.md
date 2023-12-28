@@ -1,6 +1,6 @@
 ### Hi there! I'm Ata Kemal, aka [Subuthai][website] 👋
 
-[![Website](https://img.shields.io/website?label=subuthai.xyz&style=for-the-badge&url=https%3A%2F%2Fsubuthai.xyz)](https://subuthai.xyz)
+[![subuthai.xyz - UP](https://img.shields.io/badge/subuthai.xyz-UP-2ea44f?style=for-the-badge)](https://subuthai.xyz)
 
 ## I'm a student & part-time developer!
 
