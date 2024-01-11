@@ -17,6 +17,8 @@
 - <s>Become intermediate full-stack web developer.</s> ✔️
 - Become senior full-stack web developer. ❌
 
+- **2024 Goals:**
+- Become senior full-stack web developer. ⚙
 ### Contact me:
 
 [<img align="left" alt="subuthai.xyz" width="22px" src="https://img.icons8.com/?size=512&id=dxoYK8bxqiJr&format=png" />][website]
