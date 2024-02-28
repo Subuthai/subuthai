@@ -2,7 +2,7 @@
 
 [![subuthai.xyz - UP](https://img.shields.io/badge/subuthai.xyz-UP-2ea44f?style=for-the-badge)](https://subuthai.xyz)
 
-## I'm a student & part-time developer!
+## IT Specialist & Part-time Developer
 
 - **2021 Goals:**
 - <s>I want to share a project I made, as open source.</s> ✔️
